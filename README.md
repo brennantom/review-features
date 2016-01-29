@@ -6,6 +6,7 @@ A comparison table for revising projects
 | [commits last 6 months](Commits_6_months.md).|  - | X | X |
 | Wiki page updated | X | X | X |
 | > + 1 contributor | - | X | X |
+| Signed agreement  | X | X | X |
 | Open Source License | X | X | X |
 | Open Source Repository  | X | X | X |
 | Outlined Roadmap  | - | X | X |
@@ -15,7 +16,8 @@ A comparison table for revising projects
 | User friendly Documentation  | - | X | X |
 | Standalone Executable  | - | - | X |
 | User Manual  | - | - | X |
-| Build Scripts  | - | - | X |
+| Video Overview  | - | - | X |
+| Build Scripts  | - | X | X |
 | Developer manual  | - | - | X |
 | #Issues open vs closed  | - | X | X |
 | Responsiveness leadership  | - | X | X |
