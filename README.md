@@ -16,7 +16,7 @@ A comparison table for revising projects
 | User friendly Documentation  | - | X | X |
 | Standalone Executable  | - | - | X |
 | User Manual  | - | - | X |
-| Video Overview  | - | - | X |
+| Overview Video/Preso  | - | X | X |
 | Build Scripts  | - | X | X |
 | Developer manual  | - | - | X |
 | #Issues open vs closed  | - | X | X |
